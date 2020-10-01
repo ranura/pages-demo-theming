@@ -3,3 +3,4 @@ plugins:
 remote_theme: chromatical/jekyll-materialdocs
 logo: /assets/logo.png
 mdl_colors: indigo-blue
+title: OurComponents
