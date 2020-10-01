@@ -1,6 +1,5 @@
 - title: "Buttons"
   url: "/components/buttons"
-  tab: true # opens this link in a new tab
   id: example # will be used as a parent item
 
 - title: "Child Menu Item"
