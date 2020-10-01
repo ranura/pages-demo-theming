@@ -14,6 +14,6 @@
   url: "components/buttons"
   parent: components # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
 
-- title: "Lists"
-  url: "components/dummypage"
+- title: "Form inputs"
+  url: "components/forminputs"
   parent: components # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
