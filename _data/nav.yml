@@ -1,13 +1,13 @@
 - title: "Themes"
-  url: "components/dummypage"
+  url: "components/themes"
   id: themes # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
   
 - title: "Typography"
-  url: "components/dummypage"
+  url: "components/typography"
   parent: themes # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
 
 - title: "Components"
-  url: "components/dummypage"
+  url: "components/components"
   id: components # will be used as a parent item
 
 - title: "Buttons"
