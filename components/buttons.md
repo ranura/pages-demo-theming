@@ -12,7 +12,7 @@ path: /catalog/buttons/
 [Buttons](https://material.io/components/buttons/) allow users to take actions,
 and make choices, with a single tap.
 
-!["Button on a screen"](assets/buttons/buttons_hero.png)
+!["Button on a screen"](assets/buttons_hero.png)
 
 ## Contents
 
