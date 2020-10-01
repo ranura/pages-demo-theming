@@ -1,11 +1,18 @@
+- title: "Themes"
+  url: "components/dummypage"
+  id: themes
+  
+  - title: "Typography"
+  url: "components/dummypage"
+  parent: themes # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
+
+- title: "Components"
+  id: components # will be used as a parent item
+
 - title: "Buttons"
-  url: "/components/buttons"
-  id: example # will be used as a parent item
+  url: "components/dummypage"
+  parent: components # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
 
-- title: "Child Menu Item"
-  url: "https://example.com"
-  parent: example # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
-
-- title: "Another Child Menu Item"
-  url: "https://example.com"
-  parent: about.md # will make this item a child of the about.md item
+- title: "Lists"
+  url: "components/dummypage"
+  parent: components # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
