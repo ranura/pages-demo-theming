@@ -1,8 +1,8 @@
-- title: "Themes"
+- title: "Components"
   url: "components/dummypage"
-  id: themes
+  id: themes # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
   
-  - title: "Typography"
+- title: "Typography"
   url: "components/dummypage"
   parent: themes # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
 
