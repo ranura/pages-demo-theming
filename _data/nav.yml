@@ -11,7 +11,7 @@
   id: components # will be used as a parent item
 
 - title: "Buttons"
-  url: "components/dummypage"
+  url: "components/buttons"
   parent: components # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
 
 - title: "Lists"
