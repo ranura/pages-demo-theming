@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+.mdl-layout__drawer {
+    background: #000;  
+    color: #fff; // for the header of that menu
+} 
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+   color: #fff; // links
+}
