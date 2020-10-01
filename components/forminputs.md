@@ -7,7 +7,7 @@ menu: false
 [Text fields](https://material.io/components/text-fields) let users enter and
 edit text.
 
-!["Text fields on a screen"](assets/textfields/forminputs.png)
+!["Text fields on a screen"](assets/forminputs_hero.png)
 
 ## Contents
 
