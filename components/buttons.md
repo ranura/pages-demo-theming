@@ -1,12 +1,3 @@
-<!--docs:
-title: "Buttons"
-layout: detail
-section: components
-excerpt: "A customizable button component with updated visual styles."
-iconId: materialbutton
-path: /catalog/buttons/
--->
-
 # Buttons
 
 [Buttons](https://material.io/components/buttons/) allow users to take actions,
