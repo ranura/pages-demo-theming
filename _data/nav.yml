@@ -1,4 +1,4 @@
-- title: "Components"
+- title: "Themes"
   url: "components/dummypage"
   id: themes # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
   
